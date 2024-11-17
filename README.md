@@ -123,4 +123,5 @@ If you'd like to contribute to the project, feel free to fork the repository, ma
 
 ---
 
-Enjoy building and customizing your luxury restaurant landing page!
+luxury restaurant landing page!
+https://stackblitz.com/edit/sb1-3iwtuk
